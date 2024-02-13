@@ -7,9 +7,9 @@
   </head>
   <body>
     <h1>Nossos Serviços</h1>
-    <a href="">Página Inicial</a>
+    <a href="https://github.com/Paulo-S-Farias/criando-um-site-com-navegacao-projeto2/blob/c0d2c593af2a5d4a5708d2f09db0feadcb264e95/paginainicial.md">Página Inicial</a>
     <a href="">Serviços</a>
-    <a href="">Contatos</a>
+    <a href="https://github.com/Paulo-S-Farias/criando-um-site-com-navegacao-projeto2/blob/c0d2c593af2a5d4a5708d2f09db0feadcb264e95/contato.md">Contatos</a>
     <br>
     <h2>Desenvolvimento de Software</h2>
     <br>
